@@ -1,16 +1,35 @@
-#Install
+Install
 ```
 pkg install git
+
+ثم
 pkg install python
+ثم
 git clone https://github.com/NfrXDRA/pk
 ```
-#join
+join
 ```
 cd pk
+ثم
 python pk.py
+
 ```
-#Help
+Help
 ```
 cd pk
+ثم
 python Help.py
 ```
+Help in project
+```
+
+
+
+
+
+
+
+
+
+
+
