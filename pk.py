@@ -26,7 +26,6 @@ d('''\033[1;32m
  jgs  |  |           |  |           |  |
       |  |           |  |           |  |
 ''')
-print ("'repeat number'(",sender,')')
 x=input('Start?  [y] [n] :')	
 if x =='Y' or 'y' or 'yes' or 'YES':
 	while True:
